@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './index.js',
+  entry: './javascript-template.js',
   devtool: 'source-map',
   module: {loaders: [{ 
     test: /\.js$/, 
