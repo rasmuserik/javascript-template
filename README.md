@@ -1,1 +1,1 @@
-**See <http://template.solsort.com/>**
+**See <http://javascript-template.solsort.com/>**

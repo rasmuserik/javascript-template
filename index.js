@@ -1,4 +1,4 @@
-// # JavaScript template
+// # JavaScript javascript-template
 //
 // Template for new projects.
 //
