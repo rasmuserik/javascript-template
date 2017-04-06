@@ -13,3 +13,5 @@ rm -rf .git copy.sh
 git init
 git add . 
 git commit -am 'initialised via javascript-template.solsort.com/'
+git remote add origin https://github.com/solsort/javascript-template.git
+git push -u origin master
